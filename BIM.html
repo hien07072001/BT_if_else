@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    let weight= prompt("nhap can nang");
+    let height= prompt("nhap chieu cao");
+    bmi=weight/(height*height);
+    if (bmi<18.5) {
+        document.write("underweight")
+    }else {
+        if (18.5 >= bmi && bmi< 20.0){
+            document.write("norvel")
+        }else {
+            if (20.0 >= bmi && bmi<30.0){
+                document.write("overweight")
+            }else{
+                document.write("obese")
+            }
+        }
+    }
+
+</script>
+</body>
+</html>

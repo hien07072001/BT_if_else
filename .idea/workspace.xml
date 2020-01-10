@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa8e63c5-919b-4086-9889-444ab5ca87bb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W08hrG3IcYd9EpGOn0yhzmcQP8" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa8e63c5-919b-4086-9889-444ab5ca87bb" name="Default Changelist" comment="" />
+      <created>1578275273913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578275273913</updated>
+      <workItem from="1578275276458" duration="5482000" />
+      <workItem from="1578281835909" duration="201000" />
+      <workItem from="1578282339712" duration="103000" />
+      <workItem from="1578282478817" duration="277000" />
+      <workItem from="1578283325922" duration="247000" />
+      <workItem from="1578292213148" duration="5776000" />
+      <workItem from="1578300987291" duration="3921000" />
+      <workItem from="1578362455416" duration="443000" />
+      <workItem from="1578363494766" duration="5554000" />
+      <workItem from="1578389854004" duration="20000" />
+      <workItem from="1578455401787" duration="1521000" />
+      <workItem from="1578459159078" duration="17000" />
+      <workItem from="1578459550023" duration="29000" />
+      <workItem from="1578459681795" duration="4000" />
+      <workItem from="1578459726919" duration="446000" />
+      <workItem from="1578544245476" duration="299000" />
+      <workItem from="1578553739477" duration="6000" />
+      <workItem from="1578564204416" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
